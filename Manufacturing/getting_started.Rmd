@@ -1,0 +1,23 @@
+---
+title: "Getting Started with Commodity Flows"
+author: "Robin Lee, Schinria Islam, Steven Hun Lee, Wen Fu"
+date: "February 14, 2016"
+output: html_document
+---
+
+###About the Commodity Flows Survey
+
+###Where to find the Data
+
+http://www.census.gov/econ/cfs/pums.html
+
+###Contents of Data
+
+###Useful R Resources
+
+Here are some links for some general R information
+
+Tutorial on Shiny: http://shiny.rstudio.com/tutorial/
+
+RMarkdown CheatSheet: https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf
+  
