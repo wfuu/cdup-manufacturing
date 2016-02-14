@@ -1,0 +1,38 @@
+---
+title: "Preparing the Data"
+author: "Robin Lee, Schinria Islam, Steven Hun Lee, Wen Fu"
+date: "February 14, 2016"
+output: html_document
+---
+
+###How to Prepare the Data
+
+We use the provided data dictionary in order to decipher what the data set is showing.
+
+In particular, we are given NAICS codes which can be translated into industry types.
+
+We can then incorporate this within the data.
+
+```{r}
+stopifnot(require(data.table))
+stopifnot(require(readxl))
+stopifnot(require(ggplot2))
+cfs_2012 <- fread("2012_cfs.txt")
+naics <- read_excel("naics.xlsx")
+
+Industry <- rep(0,nrow(cfs_2012))
+NAICS_data <- cfs_2012$NAICS
+
+for(row in 1:4547661){
+   Industry[row] <- naics$industry[naics$code == NAICS_data[row]]
+}
+
+cfs_2012$Industry <- Industry
+
+manufacture_cfs <- cfs_2012[grep("manufacturing",cfs_2012$Industry),]
+
+#We can make a basic plot of this data to see the frequency of each type of manufacturing
+ggplot(manufacture_cfs, aes(x = manufacture_cfs$Industry)) + geom_bar(stat = "count") + theme(axis.text.x = element_text(angle=90, hjust=1, vjust=0.5, size=9))
+
+```
+
