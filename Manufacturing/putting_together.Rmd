@@ -1,0 +1,11 @@
+---
+title: "Putting it All Together"
+author: "Robin Lee, Schinria Islam, Steven Hun Lee, Wen Fu"
+date: "February 14, 2016"
+output: html_document
+---
+#This is a story...
+
+#All about how...
+
+#Manufacturing in the United States is more important that the theme song from Fresh Prince of Bel Air...

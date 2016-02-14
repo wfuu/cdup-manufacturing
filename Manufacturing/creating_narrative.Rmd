@@ -1,0 +1,13 @@
+---
+title: "Creating the Narrative"
+author: "Robin Lee, Schinria Islam, Steven Hun Lee, Wen Fu"
+date: "February 14, 2016"
+output: html_document
+---
+##Why Manufacturing?
+
+##What can we show?
+
+From exploration of the data, we can get a sense of what kinds of stories that the data can tell us.
+
+##Maps, Barplots, and Histograms! Oh My!
