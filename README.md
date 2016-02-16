@@ -12,3 +12,6 @@ Steve Lee: Uploaded tutorial skeleton, created Manufacturing folder
 
 *2/15*
 Robin Lee: Checked how many shipments are within the same state or same metro area
+
+*2/16*
+Schinria Islam: Added introductory thoughts to "Why Manufacturing?" and "What Can We Show?" narrative 
