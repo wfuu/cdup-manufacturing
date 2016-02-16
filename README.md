@@ -6,3 +6,6 @@ Let's use the READ_ME file as a timeline, keeping a record of our contributions 
 
 *2/11*
 Schinria Islam: Created repository and README.md
+
+*2/12*
+Steve Lee: Uploaded tutorial skeleton, created Manufacturing folder
