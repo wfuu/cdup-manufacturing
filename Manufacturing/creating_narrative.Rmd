@@ -6,7 +6,7 @@ output: html_document
 ---
 ##Why Manufacturing?
 
-Made In the USA: A Tutorial on Manufacturing in America.  
+###Made In the USA: A Tutorial on Manufacturing in America.  
 
 It is not a surprise that the U.S. economy is the largest in the world—representing 22% of nominal global GDP and 17% of the global GDP. A lesser known fact, however, is that the U.S. has the world’s second largest manufacturer, with an industrial output in 2013 of $2.4 trillion. Our manufacturing sector is composed of diverse industries, including petroleum, steel, automobiles, construction machinery, aerospace, agricultural machinery, telecommunications, chemicals, food processing, consumer goods, mining, and many more. 
 
