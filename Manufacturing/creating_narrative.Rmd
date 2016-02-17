@@ -14,7 +14,7 @@ It is not a surprise that the U.S. economy is the largest in the world—represe
 
 This tutorial is designed to help you gain regional understanding of manufacturing activities by navigating the Commodity Flow Survey (CFS) of 2012, a dataset that emerged through a partnership between the Census Bureau and the Bureau of Transportation Statistics (BTS) as a part of the Economic Census. To help understand the movement of goods, the dataset provides information on commodities shipped, their value, weight, and mode of transportation, as well as the origin and destination of shipments of commodities from manufacturing, mining, wholesale, and selected retail and services establishments.
 
-We hope that communities looking to strengthen their regional manufacturing sectors through collaborative efforts, such as those supported by the Investing in Manufacturing Communities Partnership (IMCP), can use this tutorial, in addition to resources provided by the Economic Development Administration, towards better understanding of their manufacturing industries as they come to those of other states and regions as evidenced by the Commodity Flows Survey.
+We hope that communities looking to strengthen their regional manufacturing sectors through collaborative efforts, such as those supported by the Investing in Manufacturing Communities Partnership (IMCP), can use this tutorial, in addition to resources provided by the Economic Development Administration, towards better understanding of their manufacturing industries as they compare to those of other states and regions as evidenced by the Commodity Flows Survey dataset.
 
 
 From exploration of the data, we can get a sense of what kinds of stories that the data can tell us.
