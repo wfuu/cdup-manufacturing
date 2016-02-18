@@ -15,3 +15,6 @@ Robin Lee: Checked how many shipments are within the same state or same metro ar
 
 *2/16*
 Schinria Islam: Added introductory thoughts to "Why Manufacturing?" and "What Can We Show?" narrative 
+
+*2/17*
+Wen Fu: Took existing code (from Laura, Steve) to download, recode, and summarise the manufacturing data. Proposed naming convention in our codes (lower case for objects, upper case for column/variable names), and gave pseudo codes along the steps. Also included the standard steps to take from R to QGIS in order to produce maps of any sort.  
