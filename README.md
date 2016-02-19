@@ -21,3 +21,6 @@ Wen Fu: Took existing code (from Laura, Steve) to download, recode, and summaris
 
 *2/18*
 Steve Lee: Updated all files - Everything is the same except for a little bit of text within the Getting Started page.
+
+*2/19*
+Schinria Islam: Performed and uploaded exploratory data analysis - manufacturing industry by state, modes of transport, quarters, etc.
