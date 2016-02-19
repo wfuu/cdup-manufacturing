@@ -31,7 +31,7 @@ transport_mode <- read.xls(url, sheet = 5)
 names(state_metroarea) <- c("cfs_area","state", "state_cfs", "type", "description")
 state_metroarea <- state_metroarea[-c(1,2),]
 rownames(state_metroarea) <- NULL
-write.csv(state_metroarea, "FIPS Code.csv")
+write.csv(state_metroarea, "cfs_dictionary.csv")
 
 # clean industry
 names(industry_naics) <- c("naics", "description")
