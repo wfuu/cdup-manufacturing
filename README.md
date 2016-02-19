@@ -18,3 +18,6 @@ Schinria Islam: Added introductory thoughts to "Why Manufacturing?" and "What Ca
 
 *2/17*
 Wen Fu: Took existing code (from Laura, Steve) to download, recode, and summarise the manufacturing data. Proposed naming convention in our codes (lower case for objects, upper case for column/variable names), and gave pseudo codes along the steps. Also included the standard steps to take from R to QGIS in order to produce maps of any sort.  
+
+*2/18*
+Steve Lee: Updated all files - Everything is the same except for a little bit of text within the Getting Started page.
