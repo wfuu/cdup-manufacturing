@@ -1,17 +1,21 @@
 ---
-title: "Getting Started with Commodity Flows"
+title: "Getting Started with Commodity Flow"
 author: "Robin Lee, Schinria Islam, Steven Hun Lee, Wen Fu"
 date: "February 14, 2016"
 output: html_document
 ---
 
-###About the Commodity Flows Survey
+###About the Commodity Flow Survey
+The Commodity Flow Survey is used by policy makers and transportation planners throughout the United States in order to assess demand for transportation facilities and services, energy use, and safety risk and environmental concerns. Additionally, the survey allows for analysis of trends in movement of goods, mapping spacial patterns of commodity and vehicle flows, and various other patterns to be used to inform business decision by business owners and in private research.
 
 ###Where to find the Data
-
+The data can be downloaded from the follow url:
 http://www.census.gov/econ/cfs/pums.html
 
+The Commodity Flow Survey also provides a comprehensive user's guide and data dictionary to aid in the reading of the dataset. 
+
 ###Contents of Data
+
 
 ###Useful R Resources
 
