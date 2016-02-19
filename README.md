@@ -27,3 +27,6 @@ Schinria Islam: Performed and uploaded exploratory data analysis - manufacturing
 
 *2/19*
 Robin Lee: 1. Added new scripts (0-download and 1-clean)to download and clean cfs survey data and dictionaries. 1-clean is based on the part 1 of Wen's total value script 2. uploaded data dictionaries as csv
+
+*2/19*
+Wen Fu: Added Concerns file
