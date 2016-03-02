@@ -30,3 +30,6 @@ Robin Lee: 1. Added new scripts (0-download and 1-clean)to download and clean cf
 
 *2/19*
 Wen Fu: Added Concerns file
+
+*3/1*
+Robin Lee: Updated Concerns file
