@@ -33,3 +33,6 @@ Wen Fu: Added Concerns file
 
 *3/1*
 Robin Lee: Updated Concerns file
+
+*3/28*
+Schinria Islam: Added choropleth and wordcloud code for manufacturing exports to Canada and Mexico
